@@ -1,0 +1,16 @@
+nav {
+    display: flex;
+    height: 50px;
+    background-color: #F55A5A;
+    align-items: center;
+    justify-content: center;
+}
+
+nav img {
+    width: 30px;
+}
+
+nav p {
+    font-weight: bold;
+    color: #fff;
+}
